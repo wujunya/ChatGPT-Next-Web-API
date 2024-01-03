@@ -158,7 +158,9 @@ export function SideBar(props: { className?: string }) {
           ChatAPI
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          使用请填写key,站长QQ：476430956
+          使用请填写key,联系站长购买：476430956
+        </div>
+        <div className={styles["sidebar-sub-title"]}>
           <a href="https://wbchat.top" target="_blank" rel="noopener noreferrer">
               点我购买账号|APIKEY
           </a>
