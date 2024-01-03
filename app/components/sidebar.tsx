@@ -158,7 +158,10 @@ export function SideBar(props: { className?: string }) {
           ChatAPI
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          使用请填写key,站长QQ：476430956
+          <a href="https://wbchat.top" target="_blank" rel="noopener noreferrer">
+              点我购买账号|APIKEY
+          </a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
