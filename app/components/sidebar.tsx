@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          ChatAPI
+          OpenAPI 4.0
         </div>
         <div className={styles["sidebar-sub-title"]}>
           使用请填写key,联系站长购买：476430956
